@@ -6,7 +6,6 @@
 
 As a frontend developer, I build high-value interfaces, starting from a simple visual prototype, I write high-performance software that connects people and companies to improve their communication and profitability, I always develop applications so that they are scalable and easy to maintain
 
-- 👨🏻‍💻 I'm currently improving my backend development skills with node js, typescript, mongodb and mysql.
 - 🌐 Visit my [Website](https://misitioweb.com)
 - 🤵 Visit my [Linkedin](https://www.linkedin.com/in/albeiromr)
 
