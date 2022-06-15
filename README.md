@@ -4,6 +4,6 @@
 
 As a frontend developer, I build high-value interfaces, starting from a simple visual prototype, I write high-performance software that connects people and companies to improve their communication and profitability, I always develop applications so that they are scalable and easy to maintain
 
-- 🤵 Visit my [Linkedin](https://www.linkedin.com/in/albeiromr) 
+- 🤵 Visit my [Linkedin](https://www.linkedin.com/in/albeiromr)
 
 
