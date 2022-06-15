@@ -1,5 +1,3 @@
-![Albeiro marin linkedin](https://user-images.githubusercontent.com/68258142/128648008-a6a3fb6d-d111-49c7-9b7f-4cff182e7dc0.png)
-
 ### Hi there 👋 I am Albeiro Marin
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
